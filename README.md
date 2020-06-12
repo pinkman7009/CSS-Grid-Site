@@ -6,8 +6,8 @@ A fictional site made majorly using CSS Grid. Also made fully responsive using m
 ## Landing page 
 <img src="screenshots/landingpagegrid.png">
 
-## Showcase and Grid
-<img src="screenshots/gridshow.png">
+## Grid Gallery
+<img src="screenshots/showcasegrid2.png">
 
 ## Responsive views on smaller devices
 <img src="screenshots/respongrid.png">
